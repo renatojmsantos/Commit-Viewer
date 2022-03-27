@@ -17,9 +17,7 @@ http://localhost:8000/
 ```
 
 # Endpoint to retrieve commits
-```
-GET /commits
-```
+`` GET /commits ``
 
 
 
