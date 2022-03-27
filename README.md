@@ -37,9 +37,10 @@ http://localhost:8000/commits?sha=fbf64406dfe414acca102c3a0ce2a151c768373c
 ````
 
 # EDIT reposity
-#### 1. Go to .env file [a link](https://github.com/renatojmsantos/Commit-Viewer/blob/main/.env)
-
-
+  1. Go to [.env](https://github.com/renatojmsantos/Commit-Viewer/blob/main/.env) file
+  2. Edit OWNER and REPOSITY fields to your new reposity
+  3. Save file
+  
 # Run Tests
 ```
 npm test
