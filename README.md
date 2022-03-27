@@ -30,11 +30,15 @@ http://localhost:8000/commits?per_page=2&page=3
 ````
 
 # Filtering by SHA
-`` ?sha=XXXX ```
+`` ?sha=XXXX ``
 ### Example:
 ````
 http://localhost:8000/commits?sha=fbf64406dfe414acca102c3a0ce2a151c768373c
 ````
+
+# EDIT reposity
+#### 1. Go to .env file
+
 
 # Run Tests
 ```
