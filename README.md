@@ -1,5 +1,5 @@
 # Commit-Viewer
-Codacy Challenge
+ Challenge
 
 # Install packages
 ```
